@@ -63,7 +63,7 @@ subtitle: Research, Code, and Data Analysis Examples
 
 <div class="project-card">
   <h2>Regeneron Pharmaceuticals - PhD Research Intern</h2>
-  <p><strong>Duration:</strong> June 2024 - Aug 2024 | <strong>Location:</strong> Remote</p>
+  <p><strong>Duration:</strong> June 2024 - Aug 2024 | <strong>Location:</strong> Tarrytown, NY</p>
   
   <p>Analyzed, modeled, and optimized Regeneron's drug development pipeline and resource requirements for strategic planning.</p>
   
