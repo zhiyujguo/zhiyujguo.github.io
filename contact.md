@@ -30,7 +30,7 @@ title: Contact
 <br>
 <br>
 <span class="fa fa-linkedin" style="font-size:52px;color:#404040"></span>
-<h4><a href="https://www.linkedin.com/in/zhiyu-jessica-guo/" target="_blank">Connect on LinkedIn</a></h4>
+<h4><a href="https://www.linkedin.com/in/jessica-guo-a35a58155/" target="_blank">Connect on LinkedIn</a></h4>
 <br>
 <br>
 <span class="fa fa-github" style="font-size:52px;color:#404040"></span>
