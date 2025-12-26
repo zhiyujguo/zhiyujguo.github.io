@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhiyu Guo
-subtitle: PhD student in Statistics and Public Policy at Carnegie Mellon University
+subtitle: Data Scientist | Statistician | Researcher
 use-site-title: true
 ---
 <head>
@@ -16,6 +16,7 @@ use-site-title: true
   padding: 10px 20px;
   cursor: pointer;
   font-size: 12px;
+  margin: 5px;
 }
 
   
@@ -23,38 +24,92 @@ use-site-title: true
 .btn:hover {
   background-color: #202020;
 }
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px 0;
+  background-color: #f9f9f9;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #404040;
+}
+
+.project-links {
+  margin-top: 10px;
+}
   
 </style>
 </head>
  
 <p><img src="/img/profile.png" alt="Zhiyu Guo" style="float: left;padding: 20px;" width="350" height="350">
 <br>
-I am a PhD student in the joint program between the <a href = "http://www.stat.cmu.edu/">Department of Statistics and Data Science</a> and the <a href = "https://www.heinz.cmu.edu/">Heinz College</a> at Carnegie Mellon University, advised by Eli Ben-Michael and Edward Kennedy.
+I am a data scientist and statistician with expertise in causal inference, fairness/disparities analysis, and natural language processing. I recently completed doctoral coursework in the joint program between the <a href="http://www.stat.cmu.edu/">Department of Statistics and Data Science</a> and the <a href="https://www.heinz.cmu.edu/">Heinz College</a> at Carnegie Mellon University (Aug 2021 - Aug 2025), earning an M.Phil. in Public Policy and Management and M.S. in Statistics.
 <br><br>
-My research interests sit at the intersection of causal inference, fairness/disparities problems, and text analysis. 
+My research and professional interests include causal inference methods, algorithmic fairness, text analysis, and applying statistical techniques to solve real-world problems in policy and technology. I have industry experience from a PhD internship at Regeneron Pharmaceuticals, where I built Bayesian predictive models and implemented multistate survival models for drug development pipeline optimization.
 <br><br>
-Before coming to Pittsburgh, I graduated with a Bachelor of Arts in Mathematics from New York University in 2021.
+I hold a Bachelor of Arts in Mathematics (cum laude) from New York University (2021) and have experience developing statistical methods, creating data analysis tools, teaching undergrad/grad students, and communicating technical findings to diverse audiences.
 <br>
   
-  
-<!-- Add icon library -->
+<!-- Buttons for resume and materials -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<center><a href="nakpinar_cv.pdf"><button class="btn"><i class="fa fa-download"></i> Curriculum Vitae </button></a></center>
-  <br>
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<center><a href="nakpinar_resume.pdf"><button class="btn"><i class="fa fa-download"></i> Resume </button></a></center>
-
+<center>
+<a href="resume_zhiyu_guo_general.pdf"><button class="btn"><i class="fa fa-download"></i> Resume</button></a>
+<a href="JSM_slides.pdf"><button class="btn"><i class="fa fa-file-powerpoint-o"></i> JSM Presentation</button></a>
+</center>
   
-  <br>
-  <h1> News </h1>
-  <br>
+<br>
+<h1>Featured Projects</h1>
+
+<div class="project-card">
+  <h3>Racial Disparities in Jury Selection</h3>
+  <p>Applied doubly robust causal inference methods to analyze prosecutorial peremptory strikes on 2,300 jurors with 120 covariates from Mississippi courts (1992-2017).</p>
+  <p><strong>Key findings:</strong> Identified 37 percentage point difference in strike rates between Black and white jurors using variable importance measures and sensitivity analysis.</p>
+  <p><em>Presented at Joint Statistical Meetings 2025, Nashville, TN</em></p>
+  <div class="project-links">
+    <a href="JSM_slides.pdf" target="_blank"><button class="btn btn-sm"><i class="fa fa-file-powerpoint-o"></i> View JSM Slides</button></a>
+  </div>
+</div>
+
+<div class="project-card">
+  <h3>Gender Disparity Analysis in Social Media (Reddit)</h3>
+  <p>Established three-stage framework combining text processing, matching methods, and causal estimation to assess gender disparities on r/relationships using 97,000 Reddit posts.</p>
+  <p><strong>Methods:</strong> Implemented structural topic modeling, sentiment analysis, propensity score matching, and cardinality matching to control for writing style and topic confounders.</p>
+  <p><em>Presented at American Causal Inference Conference 2023, Austin, TX</em></p>
+</div>
+
+<div class="project-card">
+  <h3>Algorithmic Fairness in Housing Assessment</h3>
+  <p>Evaluated fairness and effectiveness of Allegheny Housing Assessment (AHA) algorithm using 25,000 records from 2018-2023.</p>
+  <p><strong>Analysis:</strong> Assessed three-LASSO prediction model for adverse outcomes (mental health, ER visits, jail bookings) across racial groups and compared disparate impact with traditional VI-SPDAT survey.</p>
+</div>
+
+<div class="project-card">
+  <h3>Statistical Computing & Teaching Materials</h3>
+  <p>Developed data analysis examples and practice problems for graduate-level statistics courses:</p>
   <ul>
-  <li><b>Apr 2024:</b> I'm excited to share the publication of <a href = "https://www.sciencedirect.com/science/article/pii/S1075293524000230">Visualizing formative feedback in statistics writing: An exploratory study of student motivation using DocuScope Write & Audit</a> I contributed to as the third author in Assessing Writing!</li>
-  <br>  
-  <li><b>July 2023:</b> I was invited to as a panel member to present "Structuring Genre Performance for Future Data Scientists via an Interactionist Design Model" at the IEEE ProComm 2023 in Ithaca, New York.</li>
+    <li><a href="https://cmustatistics.github.io/data-repository/social/bostonhousing.html" target="_blank">Boston Housing Data Analysis</a> - Exploratory data analysis and regression modeling</li>
+    <li><a href="https://cmustatistics.github.io/data-repository/politics/social_capital.html" target="_blank">Social Capital Analysis</a> - Political and social network data analysis</li>
+  </ul>
+</div>
+
+<br>
+<h1>News & Updates</h1>
+<br>
+<ul>
+  <li><b>Dec 2025:</b> Actively seeking data science, data analytics, and research positions. Open to opportunities in tech, policy research, and social impact organizations.</li>
   <br>
-  <li><b>May 2023:</b> I was invited to give a poster presentation on "Assessing Gender Disparities in Textual Response on Reddit.com" at the American Causal Inference Conference in Austin, Texas.<li>
+  <li><b>Aug 2025:</b> Presented "Nonparametric Assessment of Racial Disparities in Prosecutorial Peremptory Strikes: A Case Study in Mississippi" at the Joint Statistical Meetings in Nashville.</li>
+  <br>
+  <li><b>Apr 2024:</b> Co-authored paper published in <i>Assessing Writing</i>: <a href="https://www.sciencedirect.com/science/article/pii/S1075293524000230">Visualizing formative feedback in statistics writing: An exploratory study of student motivation using DocuScope Write & Audit</a></li>
+  <br>  
+  <li><b>July 2023:</b> Panel presentation at IEEE ProComm 2023 in Ithaca, New York on "Structuring Genre Performance for Future Data Scientists via an Interactionist Design Model"</li>
+  <br>
+  <li><b>May 2023:</b> Poster presentation at the American Causal Inference Conference in Austin, Texas: "Assessing Gender Disparities in Textual Response on Reddit.com"</li>
 </ul>
 
 <br><br>
-Last updated: May 2024
+Last updated: December 2024
