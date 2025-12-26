@@ -209,7 +209,7 @@ subtitle: Research, Code, and Data Analysis Examples
   <p><strong>Authors:</strong> Laudenbach, M., Brown, D. W., <strong>Guo, Z.</strong>, Ishizaki, S., Reinhart, A., & Weinberg, G.</p>
   <p><strong>Published:</strong> <em>Assessing Writing</em>, Volume 60, April 2024</p>
   
-  <p>Interdisciplinary research examining how visualization tools can improve feedback and motivation in statistics education. Contributed statistical analysis and methodology expertise, including building a BERT-based sentence classification model for students' statistical writing using PyTorch.</p>
+  <p>Interdisciplinary research examining how visualization tools can improve feedback and motivation in statistics education. Contributed statistical analysis and methodology expertise for pre- and post-survey analysis.</p>
   
   <div class="project-links">
     <a href="https://www.sciencedirect.com/science/article/pii/S1075293524000230" target="_blank" class="btn-project"><i class="fa fa-external-link"></i> Read Paper</a>
@@ -218,8 +218,7 @@ subtitle: Research, Code, and Data Analysis Examples
   <div class="tech-tags">
     <span class="tech-tag">Education Research</span>
     <span class="tech-tag">Statistical Analysis</span>
-    <span class="tech-tag">PyTorch</span>
-    <span class="tech-tag">NLP</span>
+    <span class="tech-tag">Survey Methodology</span>
   </div>
 </div>
 
@@ -262,5 +261,5 @@ subtitle: Research, Code, and Data Analysis Examples
 ---
 
 <p style="text-align: center; margin-top: 40px;">
-<em>Interested in collaborating or learning more about my work? <a href="contact">Get in touch!</a></em>
+<em>Interested in collaborating or learning more about my work? <a href="/contact">Get in touch!</a></em>
 </p>
