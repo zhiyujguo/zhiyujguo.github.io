@@ -21,15 +21,24 @@ title: Contact
 <body>
 
 <span class="fa fa-map-marker" style="font-size:52px;color:#404040"></span>
-<h4>Department of Statistics and Data Science <br>
-    Heinz College <br>
-   Carnegie Mellon University <br>
-   Pittsburgh, PA, USA
+<h4>Pittsburgh, PA, USA
    </h4>
 <br>
 <br>
 <span class="fa fa-envelope" style="font-size:52px;color:#404040"></span>
-<h4>zhiyug@andrew.cmu.edu</h4>
+<h4>zhiyuguo312@gmail.com</h4>
+<br>
+<br>
+<span class="fa fa-linkedin" style="font-size:52px;color:#404040"></span>
+<h4><a href="https://www.linkedin.com/in/zhiyu-jessica-guo/" target="_blank">Connect on LinkedIn</a></h4>
+<br>
+<br>
+<span class="fa fa-github" style="font-size:52px;color:#404040"></span>
+<h4><a href="https://github.com/zhiyujguo" target="_blank">View GitHub Profile</a></h4>
+
+<br>
+<br>
+<p><i>I'm actively seeking opportunities in data science, data analytics, and research. Feel free to reach out to discuss potential roles or collaborations!</i></p>
 
 </body>
-</html> 
+</html>
