@@ -261,5 +261,5 @@ subtitle: Research, Code, and Data Analysis Examples
 ---
 
 <p style="text-align: center; margin-top: 40px;">
-<em>Interested in collaborating or learning more about my work? <a href="/contact.md">Get in touch!</a></em>
+<em>Interested in collaborating or learning more about my work? <a href="/contact/">Get in touch!</a></em>
 </p>
