@@ -4,7 +4,7 @@
 title: Jessica Zhiyu Guo
 
 # Short description of your site
-description: PhD student in Statistics and Public Policy at Carnegie Mellon University
+description: Data Scientist | Statistician | Researcher specializing in Causal Inference & Fairness
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,13 +22,9 @@ description: PhD student in Statistics and Public Policy at Carnegie Mellon Univ
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "index"
- # Publications and CV: "nakpinar_cv.pdf"
+  About Me: "aboutme"
+  Projects: "projects"
   Contact: "contact"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -71,12 +67,12 @@ author: Zhiyu Guo
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "zhiyug@andrew.cmu.edu"
+  email: "zhiyuguo312@gmail.com"
 # facebook: deanattali
   github: zhiyujguo
   twitter: zhiyuguo2
 #  reddit: yourname
-#  linkedin: 
+  linkedin: jessica-guo-a35a58155
   scholar: nyM6_lAAAAAJ
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
